@@ -1,6 +1,11 @@
 <div align="center">
              <h1>ROG B550-A Gaming OpenCore EFI</h1>
-             <a href="README_en_US.md">English Readme</a>
+             <img src="https://img.shields.io/github/release/VisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI" />
+             <img src="https://img.shields.io/github/downloads/VisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI/total?color=white&style=plastic" />
+             <img src="https://img.shields.io/github/stars/VisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI" />
+             <br>
+             <br>
+             <a href="README_en_US.md">🇬🇧English Readme</a>
 </div>
 
 # 硬件详情
