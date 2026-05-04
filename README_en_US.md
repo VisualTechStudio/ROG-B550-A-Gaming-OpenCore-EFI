@@ -1,5 +1,10 @@
 <div align="center">
              <h1>ROG B550-A Gaming OpenCore EFI</h1>
+             <img src="https://img.shields.io/github/release/VisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI" />
+             <img src="https://img.shields.io/github/downloads/VisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI/total?color=white&style=plastic" />
+             <img src="https://img.shields.io/github/stars/VisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI" />
+             <br>
+             <br>
              This page was translated by AI and may contain inaccurate expressions
              <br>
              <a href="README.md">🇨🇳中文版 Readme</a>
