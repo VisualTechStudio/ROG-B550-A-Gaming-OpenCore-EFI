@@ -1,6 +1,8 @@
 <div align="center">
              <h1>ROG B550-A Gaming OpenCore EFI</h1>
-             <a href="README-zh_CN.md">🇨🇳中文版 Readme</a>
+             This page was translated by AI and may contain inaccurate expressions
+             <br>
+             <a href="README.md">🇨🇳中文版 Readme</a>
 </div>
 
 # Hardware Specifications
