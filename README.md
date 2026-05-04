@@ -1,4 +1,7 @@
-<h1 align="center">ROG-B550-A-Gaming-OpenCore-EFI</h1>
+<div align="center">
+             <h1>ROG B550-A Gaming OpenCore EFI</h1>
+             <a href="README_en_US.md">English Readme</a>
+</div>
 
 # 硬件详情
 - 主板:ASUS ROG Strix B550-A Gaming (BIOS V3636)
